@@ -1,0 +1,62 @@
+.mwswrap {
+	clear:both;
+	padding-right: 15px;
+	padding-left: 5px;
+}
+.mwsheading {
+	background-color: #A4A4A4;
+	padding: 10px;
+	color: #fff;
+}
+
+.mwsheading a { 
+	color: #fff;
+}
+
+.mwssubmenudiv {
+	width: 200px;
+	float:left;
+}
+
+.mwssubmenu {
+	list-style:none;
+	display:block;
+}
+
+.mwsmainpage {
+	padding-top:5px;
+	padding-left:200px;
+}
+
+.mws-test-line {
+	line-height:2em;
+}
+
+.mws-test-line label {
+	float:left;
+	line-height:2em;
+	width: 200px;
+}
+
+.mws-test-line-button {
+	margin-left:200px;
+}
+
+.mws-email-running {
+	font-weight:bold;
+	color: #FF2400;
+}
+
+.mws-email-success {
+	font-weight:bold;
+	color: #777733;
+}
+
+.mws-email-failure {
+	font-weight:bold;
+	color: #CC1100;
+}
+
+.widefat {
+	clear: right;
+}
